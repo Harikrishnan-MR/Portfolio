@@ -9,7 +9,7 @@ const About = () => {
       id="about"
       className="py-4 px-[7vw] md:px-[7vw] lg:px-[20vw] font-sans "
     >
-      <div className="flex flex-col-reverse md:flex-row justify-between items-start">
+      <div className="flex flex-col-reverse md:flex-row justify-between items-center md:items-start">
         {/* Left Side */}
         <div className="md:w-1/2 text-center md:text-left mt-8 md:mt-0">
           {/* Greeting */}
