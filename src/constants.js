@@ -17,7 +17,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import renderLogo from './assets/tech_logo/render.png';
 
 // Experience Section Logo's
-import sedinLogo from './assets/company_logo/sedin.jpg';
+import sedinLogo from './assets/company_logo/sedin_technologies.jpg';
 import aiclLogo from './assets/company_logo/AICL.png';
 
 // Education Section Logo's
