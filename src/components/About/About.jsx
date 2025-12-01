@@ -41,10 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          Aspiring Software Developer | Java & MERN Stack Enthusiast
-          I am a dedicated and innovative Engineer from Meenakshi Sundararajan Engineering College, with a strong foundation in Java Full-Stack Web Development. My education, culminating in a Bachelor of Engineering, has built a solid technical base, while my internship at Sedin Technologies provided hands-on experience in software engineering — including developing solutions using Spring MVC.
-
-I have practical expertise in both front-end and back-end development, with proven ability to integrate components and implement secure, efficient database solutions. My work at Sedin Technologies also strengthened my communication and collaboration skills, enabling me to contribute effectively in team-driven, fast-paced environments.
+            Aspiring Software Developer skilled in Java Full-Stack Development, I am a dedicated and innovative engineer from Meenakshi Sundararajan Engineering College with a strong technical foundation built through my Bachelor of Engineering degree. My internship at Sedin Technologies provided hands-on experience in software engineering, including developing solutions using Spring MVC. I have practical expertise in both front-end and back-end development, integrating components, and implementing secure, efficient database solutions. My time at Sedin also strengthened my communication and collaboration skills, enabling me to contribute effectively in fast-paced, team-driven environments.
           </p>
           {/* Resume Button */}
           <a
