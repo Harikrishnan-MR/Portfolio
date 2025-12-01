@@ -178,6 +178,6 @@ export const SkillsInfo = [
       image: moneymangerLogo,
       tags: ["React JS", "Springboot","HTML", "CSS", "JavaScript"],
       github: "hhttps://github.com/Harikrishnan-MR/Money-manger.git",
-      webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+      webapp: "https://moneymanage1216.netlify.app/",
     },
   ];  
