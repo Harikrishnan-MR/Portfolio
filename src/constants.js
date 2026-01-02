@@ -157,8 +157,8 @@ export const SkillsInfo = [
         "A full-stack student management system built using Java that allows administrators and faculty to manage student records efficiently. The platform supports adding, updating, and tracking student details, courses, and performance data while providing clear dashboards and reports to streamline academic management and decision-making.",
       image: smsLogo,
       tags: ["React JS", "Springboot","HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://csprep.netlify.app/",
+      github: "https://github.com/Harikrishnan-MR/Student-Management-System",
+      webapp: "https://studmgmtsys.netlify.app/",
     },
     {
       id: 2,
